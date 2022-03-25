@@ -1,0 +1,7 @@
+{
+  "name": "flask-with-react",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
