@@ -4,4 +4,4 @@ this repo contains a example of website using react and ionic for frontend and f
 
 Bellow, is possible to see the actual webpage.
 
-<img src="example.png" style="height: 1000px; width:1000px;"/>
+<img src="example.png"/>
